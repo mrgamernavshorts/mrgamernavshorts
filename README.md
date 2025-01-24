@@ -36,6 +36,6 @@ A High level programming Language written in c++!
 
 ## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Sandhucable02@Gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sandhucable02@Gmail.com)
 
 Thanks for stopping by! 😊
