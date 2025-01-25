@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer and gamer. I love explo
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## 📂 Projects
 
-### [NAV browse](https://github.com/mrgamernavshorts/DD-of-SGGS)
+### [Daily Dose of Shri Guru Granth Sahib](https://github.com/mrgamernavshorts/DD-of-SGGS)
 A Shri Guru Granth Sahib website + app where you can read Shri Guru Granth Sahib in both punjabi and english.
 
 ### [NAV browse](https://github.com/mrgamernavshorts/NAV-browse)
