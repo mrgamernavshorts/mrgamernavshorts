@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer and gamer. I love explo
 - 🔭 I’m currently working on Making my skills better.
 - 🌱 I’m currently learning various Programming Languages.
 - 🤔 I’m looking for help with Open source Contributions.
-- ⚡ Fun fact: I am a 14-year old (as of 7 November 2024).
+- ⚡ Fun fact: Born in 2010.
 
 ## 📈 GitHub Stats
 
