@@ -1,13 +1,12 @@
-# Hi there, I'm Nav! 👋
+# Hi there, I'm Mgnsyt! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and gamer. I love exploring new technologies, building cool projects, and sharing my knowledge with the community.
 
-## 🧑‍💻 About Me
-- I LOVE GOD!
+## 🧑‍💻 About ME
 - 🔭 I’m currently working on Making my skills better.
 - 🌱 I’m currently learning various Programming Languages.
 - 🤔 I’m looking for help with Open source Contributions.
-- ⚡ Fun fact: Born in 2010.
+- ⚡ Fun fact: Uhh No.
 
 ## 📈 GitHub Stats
 
