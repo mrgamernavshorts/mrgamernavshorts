@@ -19,5 +19,5 @@ A safe and Secure Browser written in html,css,and javascript.
 ### [NAV++](https://github.com/mrgamernavshorts/NAV-Plus-Plus)
 A High level programming Language written in c++!
 
-### [NAV-OS](https://github.com/mrgamernavshorts/N-OS)
+### [N-OS](https://github.com/mrgamernavshorts/N-OS)
 A x86 Opreating system built from the ground up!
