@@ -1,23 +1,22 @@
-# Hi there, I'm Mgnsyt! 👋
+# Hey there, it's MGNSYT!
+Hi, I am a cool guy who loves to make cool low-level programs.
 
-Welcome to my GitHub profile! I'm a passionate developer and gamer. I love exploring new technologies, building cool projects, and sharing my knowledge with the community.
+## My Projects
+Here is the list of all of my current projects from most impressive to least in chronological order:
+### [N-OS](https://github.com/mrgamernavshorts/N-OS)
+A 16-bit OS with legacy boot built from the ground up!
 
-## 🧑‍💻 About ME
-- 🔭 I’m currently working on Making my skills better.
-- 🌱 I’m currently learning various Programming Languages.
-- 🤔 I’m looking for help with Open source Contributions.
-- ⚡ Fun fact: Uhh No.
-
-## 📂 Projects
-
-### [Daily Dose of Shri Guru Granth Sahib](https://github.com/mrgamernavshorts/DD-of-SGGS)
-A Shri Guru Granth Sahib website + app where you can read Shri Guru Granth Sahib in both punjabi and english.
-
-### [NAV browse](https://github.com/mrgamernavshorts/NAV-browse)
-A safe and Secure Browser written in html,css,and javascript.
+### [Queue-c-dynamic](https://github.com/mrgamernavshorts/queue-c-dynamic)
+A dynamic implementation of a Queue as a contiguous buffer in C!
 
 ### [NAV++](https://github.com/mrgamernavshorts/NAV-Plus-Plus)
-A High level programming Language written in c++!
+A high level language written in C++!
 
-### [N-OS](https://github.com/mrgamernavshorts/N-OS)
-A x86 Opreating system built from the ground up!
+## Contact me
+<a href="mailto:mgnsyt@tutamail.com"><button 
+  style="padding: 5px;
+  border: solid black;
+  border-radius: 8px;
+  background-color: orange;
+  font-weight: bold;
+  "> 📧 Contact me!</button></a>
