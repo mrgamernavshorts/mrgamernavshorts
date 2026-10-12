@@ -12,6 +12,9 @@ A dynamic implementation of a Queue as a contiguous buffer in C!
 ### [NAV++](https://github.com/mrgamernavshorts/NAV-Plus-Plus)
 A high level language written in C++!
 
+### [N-pass manager](https://github.com/mrgamernavshorts/Npass-Manager)
+A open source, browser-based, local password manager!
+
 ## Contact me
 <a href="mailto:mgnsyt@tutamail.com"><button 
   style="padding: 5px;
