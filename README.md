@@ -4,7 +4,7 @@ Hi, I am a cool guy who loves to make cool low-level programs.
 ## My Projects
 Here is the list of all of my current projects from most impressive to least in chronological order:
 ### [N-OS](https://github.com/mrgamernavshorts/N-OS)
-A 16-bit OS with legacy boot built from the ground up!
+A x86 OS with legacy boot built from the ground up!
 
 ### [Queue-c-dynamic](https://github.com/mrgamernavshorts/queue-c-dynamic)
 A dynamic implementation of a Queue as a contiguous buffer in C!
